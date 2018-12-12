@@ -1,3 +1,5 @@
+This is a modified version of https://github.com/hungle88/electron-react-starter-kit, with an OOP React design instead of a functional programming design
+
 # Electron React Starter Kit
 
 Quickly get up and running with ReactJS inside Electron app.
@@ -13,10 +15,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/hungle88/electron-react-starter-kit
+git clone https://github.com/jakedemian/ElectronReactBarebones
 
 # Go into the repository
-cd electron-react-starter-kit
+cd ElectronReactBarebones
 
 # Install dependencies
 yarn
